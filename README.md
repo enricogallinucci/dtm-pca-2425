@@ -9,7 +9,11 @@ Teacher: [Enrico Gallinucci](https://www.unibo.it/sitoweb/enrico.gallinucci/en)
 
 ## Software installation 
 
-TBD
+You can easily run all exercises from your own computer. Just follow these instructions to prepare your environment.
+- Download Python from [here](https://www.python.org/downloads/) and install it.
+  - If you have a Python 3 version (or a distribution like Anaconda) already installed, that's fine, you can use that.
+- Download Visual Studio Code from [here](https://code.visualstudio.com/download) and install it.
+- Open Visual Studio Code and install the Python and Jupyter extensions (View > Extensions).
 
 ## Additional resources
 
